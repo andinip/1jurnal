@@ -15,6 +15,8 @@ public class Jurnal1 {
         if (input ){
             for(){
                 System.out.println("random pokonya");
+                System.out.println("ini modified sum of fibonacci");
+                System.out.println("katanya asprak jangan tanya kodingan");
             }
         }
     }
